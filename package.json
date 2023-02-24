@@ -1,0 +1,12 @@
+{
+  "name": "tages_file1gb",
+  "version": "1.0.0",
+  "description": "Тестовое задание на вакансию Node.js разработчик",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
